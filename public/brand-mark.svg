@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Bharat HealthNet AI</title>
+  <desc id="desc">A connected healthcare cross mark in navy, blue, and green.</desc>
+  <defs><linearGradient id="bg" x1="12" y1="8" x2="86" y2="88" gradientUnits="userSpaceOnUse"><stop stop-color="#3988F5"/><stop offset="1" stop-color="#43B98C"/></linearGradient></defs>
+  <rect width="96" height="96" rx="25" fill="#0B2440"/>
+  <path d="M28 18h19c17 0 29 11 29 28 0 21-14 32-33 32H28V18Zm15 13v34h3c10 0 16-6 16-19 0-10-5-15-16-15h-3Z" fill="url(#bg)"/>
+  <path d="M61 39v7h-7v10h7v7h10v-7h7V46h-7v-7H61Z" fill="#F6FFFB"/>
+  <circle cx="25" cy="25" r="4" fill="#9AF1C9"/><circle cx="76" cy="72" r="4" fill="#9AF1C9"/>
+</svg>
